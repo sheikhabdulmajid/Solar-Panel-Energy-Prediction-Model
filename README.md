@@ -9,6 +9,6 @@ The input features dataset was trained on Linear Regression and Random Forest mo
 
 Random Forest model turned out be more accurate in terms of energy prediction, with an R-squared value of 0.9.
 
-The input feature, Global Horizontal Irradiance (GHI) was found to have the highest correlation with the energy output.
+The input feature; Global Horizontal Irradiance (GHI), was found to have the highest correlation with the energy output.
 
 Time Series Analysis of the energy output was also performed to determine the autocorrelation, which was found to be 0.96.
